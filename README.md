@@ -133,4 +133,4 @@ Please always check a website's `robots.txt` file and Terms of Service before sc
 > ❗ This project does not promote or support any form of unethical or unauthorized data extraction. Users are fully responsible for ensuring compliance with legal and ethical standards when applying these techniques.
 > 💡 Use this knowledge ethically and responsibly.
 
-📌 Let's start scraping the web — ethically, responsibly, and like a pro! 💪🌍
+📌 Let's start scraping the web ethically, responsibly, and like a pro! 💪🌍
